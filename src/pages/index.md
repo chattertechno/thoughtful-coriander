@@ -34,12 +34,12 @@ sections:
       - content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-        title: Service title
+        title: REAL ESTATE
       - content: >-
           Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis
           justo, sit amet condimentum lorem nibh vel quam. Duis consectetur
           lorem ipsum, non efficitur urna viverra et.
-        title: Service title
+        title: BROKERAGE FIRMS
     subtitle: The platform services and more
     title: What We Offer
     type: servicesblock
@@ -71,7 +71,7 @@ sections:
     type: postsblock
   - component: ContactBlock
     section_id: contact
-    subtitle: An optional subtitle of the section
+    subtitle: WE GET RIGHT BACK TO YOU
     title: Contact Us
     type: contactblock
 menus:
