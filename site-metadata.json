@@ -1,20 +1,21 @@
 {
-    "title": "Stackbit Exto Theme",
-    "color_scheme": "light",
-    "accent_color": "pink",
-    "header": {
-        "title": "Exto",
-        "has_nav": true
-    },
-    "footer": {
-        "content": "&copy; Stackbit-Exto. All rights reserved.",
-        "links": [
-            {
-                "text": "Made with Stackbit",
-                "url": "https://www.stackbit.com",
-                "new_window": true
-            }
-        ],
-        "has_social": true
-    }
+  "title": "GHOTIC GANG",
+  "color_scheme": "light",
+  "accent_color": "pink",
+  "header": {
+    "title": "GHOST",
+    "logo_img": "/images/ghostic-gang.png",
+    "has_nav": true
+  },
+  "footer": {
+    "content": "ALL RIGHTS RESERVED",
+    "links": [
+      {
+        "text": "PROUDLY MADE BY CHATTER",
+        "url": "https://reneekrom.com",
+        "new_window": true
+      }
+    ],
+    "has_social": true
+  }
 }
