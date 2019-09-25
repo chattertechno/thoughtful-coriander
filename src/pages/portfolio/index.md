@@ -1,10 +1,11 @@
 ---
-title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
+title: MERCHANDISE
+subtitle: PRE-ORDER NOW
 layout_style: mosaic
 menus:
   main:
-    title: Portfolio
+    title: MERCHANDISE
     weight: 2
 template: portfolio
 ---
+
